@@ -1,8 +1,9 @@
-PLUGIN_NAME = virtual-dendrite
 
-HEADERS = virtual-dendrite.h
+PLUGIN_NAME = vdend
 
-SOURCES = virtual-dendrite.cpp
+HEADERS = vdend.h
+
+SOURCES = vdend.cpp
 
 LIBS = 
 
