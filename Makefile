@@ -1,4 +1,4 @@
-PLUGIN_NAME = virtual-dendrite
+PLUGIN_NAME = virtual_dendrite
 
 HEADERS = virtual-dendrite.h
 
