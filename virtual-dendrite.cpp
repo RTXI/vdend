@@ -85,7 +85,7 @@ vdend::vdend(void) : DefaultGUIModel("Virtual Dendrite", ::vars, ::num_vars), dt
 	DefaultGUIModel::createGUI(vars, num_vars);
 	update(INIT);
 	refresh();
-	QTimer::singleShot(0, this, SLOT(resizeMe()));
+	resizeMe();
 }
 
 vdend::~vdend(void) {}
