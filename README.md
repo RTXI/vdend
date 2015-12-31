@@ -6,7 +6,7 @@
 ![Virtual Dendrite GUI](virtual-dendrite.png)
 
 <!--start-->
-A virtual dendrite to silence all those pesky reviewers! “Attaches” a cable to your cell through which synaptic inputs are “passed” before RTXI injects the resultant current into the recording site. 
+“Attaches” a cable to your cell through which synaptic inputs are “passed” before RTXI injects the resultant current into the recording site. 
 <!--end-->
 
 ####Input Channels
